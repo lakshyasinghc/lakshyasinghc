@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lakshyasinghc
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...javascript
+- 🌱 I’m currently learning ...Nextjs 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... on lakshyasinghchouhan2509@gmail.com
 
